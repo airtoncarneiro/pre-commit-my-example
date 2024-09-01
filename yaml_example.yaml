@@ -1,0 +1,12 @@
+database:
+	name: my_database
+user:
+	name: my_user
+    password: secret_password
+
+
+# Indentação inconsistente: Mistura de 
+#    espaços e tabs.
+# Problema de alinhamento: A linha com
+#    password está desalinhada com o 
+#    restante da chave user.

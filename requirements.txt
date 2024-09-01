@@ -1,0 +1,5 @@
+black==24.8.0
+ruff==0.6.3
+sqlfluff==3.1.1
+yamllint==1.35.1
+

@@ -1,0 +1,6 @@
+# .ruff.toml
+
+[lint]
+select = ["E", "W", "F", "C", "N", "Q", "B", "S"]
+
+# ignore = ["E501"]  # Ignora linhas muito longas
